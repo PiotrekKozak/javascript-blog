@@ -128,3 +128,37 @@ body {
         margin: 0 10px 0 0;
     }
 }
+
+.tag-size-1 {
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(51, 2, 10);
+}
+
+.tag-size-2 {
+    font-size: 18px;
+    color: rgb(163, 11, 11);
+}
+
+.tag-size-3 {
+    font-size: 20px;
+    color: rgb(42, 5, 143);
+}
+
+.tag-size-4 {
+    font-size: 22px;
+    color: rgb(172, 113, 4);
+}
+
+.tag-size-5 {
+    font-size: 24px;
+    color: rgb(54, 136, 85);
+}
+
+.tags a {
+    display: inline;
+    text-decoration: none;
+
+    float: left;
+    margin: 5px;
+}
